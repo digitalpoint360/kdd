@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="5110" started-at="2020-12-17T19:42:36 EST" finished-at="2020-12-17T19:42:41 EST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="5110" started-at="2020-12-17T19:42:36 EST" finished-at="2020-12-17T19:42:41 EST">
+      <class name="testCases.homepage">
+        <test-method status="PASS" signature="browserSetup()[pri:0, instance:testCases.homepage@627551fb]" name="browserSetup" is-config="true" duration-ms="2973" started-at="2020-12-17T19:42:36 EST" finished-at="2020-12-17T19:42:39 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserSetup -->
+        <test-method status="PASS" signature="homepageValidation()[pri:0, instance:testCases.homepage@627551fb]" name="homepageValidation" duration-ms="1344" started-at="2020-12-17T19:42:39 EST" finished-at="2020-12-17T19:42:40 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homepageValidation -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:testCases.homepage@627551fb]" name="teardown" is-config="true" duration-ms="738" started-at="2020-12-17T19:42:40 EST" finished-at="2020-12-17T19:42:41 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- testCases.homepage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
